@@ -46,7 +46,7 @@ https://cloud.baidu.com/doc/SMS/s/Yjwvxrwzb
 baidu/baidu_authorization为我自己创建的其中有BosAuthorizationClient类
 
 BosAuthorizationClient类的代码
-只需填写自己的ak,sk,其他代码不许修改
+只需填写自己的ak,sk,其他代码不需修改
 
 ````ruby
 require 'baidubce/services/bos/bos_client'
